@@ -11,6 +11,6 @@
 ![alt text](image-1.png)
 ![alt text](image.png)
 
-GitHub Repo: https://github.com/JLH-Owner/employee-payroll-tracker
+GitHub Repo: https://github.com/JLH-Owner/my-first-blog
 
-Webpage Url: https://jlh-owner.github.io/employee-payroll-tracker/
+Webpage Url: https://jlh-owner.github.io/my-first-blog/
